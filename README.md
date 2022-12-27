@@ -6,7 +6,7 @@
 
 I'm Donovin Lewis, an electrical engineering Ph.D. student at the University of Kentucky's <a href ="http://sparklab.engr.uky.edu/">SPARK Lab</a>. Information about related projects and media can be found below:
 
-# Connections
+## Connections
 <ul>
   <li><a href=mailto:“donovin.lewis@uky.edu”>Email</a>
   <li><a href="https://www.linkedin.com/in/donovin-lewis-466939139/">LinkedIn</a></li>
