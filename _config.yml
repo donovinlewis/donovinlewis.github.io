@@ -1,7 +1,9 @@
 title: Donovin Lewis
 logo: /images/headshot.jpg
 description: Electrical Engineer and Ph.D. Student studying Transportation Electrification
-theme: minima
+theme: jekyll-theme-minimal
+
+#theme: jekyll-remote-theme
 
 #remote_theme: pages-themes/merlot@v0.2.0
 #plugins:
