@@ -3,7 +3,7 @@ logo: /images/headshot.jpg
 description: Electrical Engineer and Ph.D. Student studying Transportation Electrification
 theme: jekyll-theme-minimal
 
-#theme: jekyll-remote-theme
+#theme: minimal
 
 #remote_theme: pages-themes/merlot@v0.2.0
 #plugins:
