@@ -9,7 +9,7 @@ I'm Donovin Lewis, an electrical engineering Ph.D. student at the University of 
 
 # Connections
 <ul>
-  <li><a href=“mailto: donovin.lewis@uky.edu”>Email</a>
+  <li><a href=“mailto: donovin.lewis@uky.edu”>Email</a> <\li>
   <li><a href="https://www.linkedin.com/in/donovin-lewis-466939139/">LinkedIn</a></li>
   <li><a href ="https://scholar.google.com/citations?user=sD9UgnAAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
 </ul>
@@ -17,7 +17,7 @@ I'm Donovin Lewis, an electrical engineering Ph.D. student at the University of 
 # Projects
 ## Current
 <ul>
-  <li>Dynamic wireless charging studies collaborating with Oak Ridge National Lab
+  <li>Dynamic wireless charging studies collaborating with Oak Ridge National Lab </li>
   <li>Senior Design Project for Wireless Soil Moisture Sensing:  <a href ="https://github.com/donovinlewis/CloudGarden"> CloudGarden</a></li>
 </ul>
 
