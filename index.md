@@ -5,7 +5,7 @@
 </center>
 
 ___
-I'm Donovin Lewis, an electrical engineering Ph.D. student mentored by Professor Dan Ionel at the University of Kentucky's <a href ="http://sparklab.engr.uky.edu/">SPARK Lab</a>. My research focuses on electric components and systems for transportation electrification.
+I'm Donovin Lewis, an electrical engineering Ph.D. student mentored by Professor Dan Ionel at the University of Kentucky's <a href ="http://sparklab.engr.uky.edu/">SPARK Lab</a>. As an NSF Graduate Research Fellow, My research focuses on electric components and systems for transportation electrification.
 
 Information about related projects and media can be found below:
 
