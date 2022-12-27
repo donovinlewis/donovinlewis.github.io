@@ -4,6 +4,7 @@
 <img src="/images/armsCrossed.jpg" alt="Donovin Lewis" width = "250" />
 </center>
 
+___
 I'm Donovin Lewis, an electrical engineering Ph.D. student at the University of Kentucky's <a href ="http://sparklab.engr.uky.edu/">SPARK Lab</a>. Information about related projects and media can be found below:
 
 ## Connections
