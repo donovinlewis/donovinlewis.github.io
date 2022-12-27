@@ -15,6 +15,6 @@ I'm Donovin Lewis, an electrical engineering Ph.D. student at the University of 
 
 ## Projects
 <ul>
-  <li>Former Electrical Lead of the <a href ="http://solarcar.engr.uky.edu/"> University of Kentucky Solar Car Team </li>
-  <li>Senior Design Project for Wireless Soil Moisture Sensing:  <a href ="https://github.com/donovinlewis/CloudGarden"> CloudGarden</li>
+  <li>Former Electrical Lead of the <a href ="http://solarcar.engr.uky.edu/"> University of Kentucky Solar Car Team</a> </li>
+  <li>Senior Design Project for Wireless Soil Moisture Sensing:  <a href ="https://github.com/donovinlewis/CloudGarden"> CloudGarden</a></li>
 </ul>
