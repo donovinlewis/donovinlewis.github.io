@@ -1,0 +1,6 @@
+title: Donovin Lewis
+logo: /images/headshot.jpg
+description: Electrical Engineer and Ph.D. Student studying Transportation Electrification
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
