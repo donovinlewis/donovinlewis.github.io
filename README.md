@@ -1,5 +1,5 @@
 <center>
-<img src="/images/armsCrossed.png" alt="Donovin Lewis" />
+<img src="/images/armsCrossed.jpg" alt="Donovin Lewis" />
 </center>
 
 
