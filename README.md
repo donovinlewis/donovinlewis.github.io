@@ -17,8 +17,7 @@ I'm Donovin Lewis, an electrical engineering Ph.D. student at the University of 
 # Projects
 ## Current
 <ul>
-  <li>Dynamic wireless charging studies collaborating with Oak Ridge National Lab</li>
-  <li>Senior Design Project for Wireless Soil Moisture Sensing:  <a href ="https://github.com/donovinlewis/CloudGarden"> CloudGarden</a></li>
+  <li>Dynamic Wireless Charging studies collaborating with Oak Ridge National Lab</li>
 </ul>
 
 ## Past
