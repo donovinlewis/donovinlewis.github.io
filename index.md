@@ -17,7 +17,9 @@ Information about related projects and media can be found below:
 
 # Projects
 ## Current
-- Dynamic Wireless Charging studies collaborating with Oak Ridge National Lab
+- Wireless charging for electric vehicles collaborating with Oak Ridge National Lab
+- <a href = "https://www.mdpi.com/1996-1073/16/4/1999">Large-scale renewable energy and electric vehicle integration</a>
+- Coreless Axial Flux Permanent Magnet machines with PCB stators
 
 
 ## Past
